@@ -15,7 +15,6 @@
 百度的网站是 [点这里](www.baidu.com)
 
 ![一张照片](1.jpg)
-![一张照片](1.jpg)
 
 这里是代码
 ```javascript
